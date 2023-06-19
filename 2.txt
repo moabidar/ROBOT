@@ -1,1 +1,1 @@
-doo.HeroForge.games.iron
+com.HeroForge.games.iron
